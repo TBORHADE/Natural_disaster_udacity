@@ -35,9 +35,8 @@ The repository contains the following files:
       
     ├── app
       ├── run.py
-      ├── templates
-        ├── master.html
-        ├── go.html
+      ├── master.html
+      ├── go.html
 
 The input data files used for the project are:
 
