@@ -13,7 +13,7 @@ The project uses the response data from various users across the world posted in
 
 ## Installation
 
-To clone the repository use: ``` ```
+To clone the repository use: ```https://github.com/TBORHADE/Natural_disaster_udacity.git```
 
 ## Overview of repository
 
