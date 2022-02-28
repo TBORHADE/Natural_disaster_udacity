@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Natural_Disaste_Udacity
 
 The project uses the response data from various users across the world posted in social media during various disasters such as earthquake, fire, missing person, food/ water related issues and so on. The goal is to develop a Web App which will categorize any given disaster message received from people.
 
