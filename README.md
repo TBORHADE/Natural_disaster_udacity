@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-The project uses the response data from various users across the world posted in social media during various disasters such as earthquake, fire, missing person, food/ water related issues and so on. The goal is to develop a Web App which will categorize any given disaster message received from people. T
+The project uses the response data from various users across the world posted in social media during various disasters such as earthquake, fire, missing person, food/ water related issues and so on. The goal is to develop a Web App which will categorize any given disaster message received from people.
 
 ## Table of Contents
 
@@ -72,6 +72,7 @@ In a new terminal run:
 4) Merge the two datasets.
 5) Remove duplicates.
 6) Load into a SQL database and save it in the "data" folder.
+
 **ML Pipeline**
 1) Load the data from the SQL database present in the "data" folder.
 2) Perform data visualization to see the number of responses received per category.
